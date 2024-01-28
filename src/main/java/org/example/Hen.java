@@ -5,9 +5,4 @@ public class Hen extends Bird {
         super(age, gender, weight);
     }
 
-    @Override
-    public void fly() {
-        throw new UnsupportedOperationException();
-    }
-
 }
